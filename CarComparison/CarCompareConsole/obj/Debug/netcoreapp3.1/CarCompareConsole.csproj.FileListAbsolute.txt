@@ -1,0 +1,17 @@
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\obj\Debug\netcoreapp3.1\CarCompareConsole.AssemblyInfoInputs.cache
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\obj\Debug\netcoreapp3.1\CarCompareConsole.AssemblyInfo.cs
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\obj\Debug\netcoreapp3.1\CarCompareConsole.csproj.CoreCompileInputs.cache
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\bin\Debug\netcoreapp3.1\CarCompareConsole.exe
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\bin\Debug\netcoreapp3.1\CarCompareConsole.deps.json
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\bin\Debug\netcoreapp3.1\CarCompareConsole.runtimeconfig.json
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\bin\Debug\netcoreapp3.1\CarCompareConsole.runtimeconfig.dev.json
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\bin\Debug\netcoreapp3.1\CarCompareConsole.dll
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\bin\Debug\netcoreapp3.1\CarCompareConsole.pdb
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\bin\Debug\netcoreapp3.1\CarComparisonLib.dll
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\bin\Debug\netcoreapp3.1\CarComparisonLib.pdb
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\obj\Debug\netcoreapp3.1\CarCompareConsole.csprojAssemblyReference.cache
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\obj\Debug\netcoreapp3.1\CarCompareConsole.csproj.CopyComplete
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\obj\Debug\netcoreapp3.1\CarCompareConsole.dll
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\obj\Debug\netcoreapp3.1\CarCompareConsole.pdb
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarCompareConsole\obj\Debug\netcoreapp3.1\CarCompareConsole.genruntimeconfig.cache

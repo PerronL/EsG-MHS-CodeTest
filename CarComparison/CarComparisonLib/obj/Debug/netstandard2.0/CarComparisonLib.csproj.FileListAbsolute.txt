@@ -1,0 +1,8 @@
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarComparisonLib\obj\Debug\netstandard2.0\CarComparisonLib.AssemblyInfoInputs.cache
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarComparisonLib\obj\Debug\netstandard2.0\CarComparisonLib.AssemblyInfo.cs
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarComparisonLib\obj\Debug\netstandard2.0\CarComparisonLib.csproj.CoreCompileInputs.cache
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarComparisonLib\bin\Debug\netstandard2.0\CarComparisonLib.deps.json
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarComparisonLib\bin\Debug\netstandard2.0\CarComparisonLib.dll
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarComparisonLib\bin\Debug\netstandard2.0\CarComparisonLib.pdb
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarComparisonLib\obj\Debug\netstandard2.0\CarComparisonLib.dll
+C:\Users\Perron\Source\Repos\EsG-MHS-CodeTest\CarComparison\CarComparisonLib\obj\Debug\netstandard2.0\CarComparisonLib.pdb
